@@ -1,0 +1,8 @@
+/* linux */
+the_ROM_image:
+{
+   [bootloader] <zedboard_base_20202/boot/fsbl.elf>
+   <bitstream>
+   <zedboard_base_20202/boot/u-boot.elf>
+}
+
